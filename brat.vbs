@@ -1,0 +1,1 @@
+msgbox"dobrota pobedit teb",64,"dobrota"
